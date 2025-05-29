@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/me/static/css/main.e60b8b26.css",
-    "main.js": "/me/static/js/main.ec3994a5.js",
+    "main.js": "/me/static/js/main.d9c7dfd5.js",
     "static/css/64.bba8fa55.chunk.css": "/me/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/me/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/me/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.bda0d7b7.chunk.js": "/me/static/js/769.bda0d7b7.chunk.js",
+    "static/media/Resume_LakshmiNarayanaReddy.pdf": "/me/static/media/Resume_LakshmiNarayanaReddy.2f0073f9a5bb6e336105.pdf",
     "static/media/Montserrat-Regular.ttf": "/me/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/IIT_Madras_Logo.svg.png": "/me/static/media/IIT_Madras_Logo.svg.2490d57181ac4ecda756.png",
     "static/media/Indian_Institute_of_Technology_Delhi_Logo.svg.png": "/me/static/media/Indian_Institute_of_Technology_Delhi_Logo.svg.2bb77ecb61812b3b35f5.png",
@@ -17,12 +18,11 @@
     "static/media/agentic_ai.jpeg": "/me/static/media/agentic_ai.bd5d7cb44f86c7a43a80.jpeg",
     "static/media/IIIT_Sri_City_Logo.png": "/me/static/media/IIIT_Sri_City_Logo.f9952a6029009a14d49f.png",
     "static/media/skill.svg": "/me/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
-    "static/media/resume.pdf": "/me/static/media/resume.f0f733dd3cd732b39262.pdf",
     "static/media/RGUKT_logo.webp": "/me/static/media/RGUKT_logo.0d039e68fa61958b4768.webp",
     "index.html": "/me/index.html",
     "static/media/talksCardBack.svg": "/me/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.e60b8b26.css.map": "/me/static/css/main.e60b8b26.css.map",
-    "main.ec3994a5.js.map": "/me/static/js/main.ec3994a5.js.map",
+    "main.d9c7dfd5.js.map": "/me/static/js/main.d9c7dfd5.js.map",
     "64.bba8fa55.chunk.css.map": "/me/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/me/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/me/static/css/769.b3cbb36b.chunk.css.map",
@@ -30,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.e60b8b26.css",
-    "static/js/main.ec3994a5.js"
+    "static/js/main.d9c7dfd5.js"
   ]
 }
